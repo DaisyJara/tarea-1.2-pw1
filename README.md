@@ -9,8 +9,33 @@
   <link rel="icon" href="images/favicon.png" type="image/png" sizes="10x10">
 </head>
 <body>
-  
- El 5G mejorará la conectividad y reducirá considerablemente el tiempo de latencia.Gracias al advenimiento del 'internet de las cosas', parte del mobiliario urbano de las grandes ciudades quedará permanentemente conectado entre sí.
  
+ <header>
+  
+    Animales
+  </header>
+  <nav>
+    Home | Photos | Videos | Contact
+  </nav>
+  <main>
+    <section>
+      <article>
+        
+1. El gato doméstico​​, llamado popularmente gato, y de forma coloquial minino, ​ michino, ​ michi, ​ micho, ​ mizo, ​ miz, ​   morroño​ o morrongo, ​ entre otros nombres, es un mamífero carnívoro de la familia Felidae
+      </article>
+      <article>
+   
+2.El perro es un carnívoro domesticado de la familia Canidae. Forma parte de los cánidos en forma de lobo y es el carnívoro terrestre más abundante
+      </article>
+    </section>
+    <aside>
+      Quote from article one
+      Quote from article two
+    </aside>
+  </main>
+  <footer>
+  
+ Copyright &copy; 2018
+  </footer>
 </body>
 </html>
